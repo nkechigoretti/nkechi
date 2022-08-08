@@ -1,0 +1,60 @@
+body{
+
+}
+header{
+    display: flex;
+    background-color: powderblue;
+    grid-gap: 30px;
+}
+    
+nav{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 10px;
+    grid-gap: 20px;
+}
+
+
+
+h1{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+}
+
+.cake{
+    display: flex;
+    width: 300px;
+    height: 300px;
+    grid-gap: 30px;
+    padding-top: 15px;
+}
+footer{
+    display: flex;
+    grid-gap: 20px;
+    background-color: brown;
+}
+p{
+    
+    margin: 15px 20px;
+    text-align: justify;
+    font-size: 25px;
+    margin: 10px;
+    font-weight: bolder;
+    background-color: #fff
+    
+}
+h4{
+    color: #fff;
+    font-weight: bolder;
+    font-size: 20px;
+
+}
+ul, li{
+    font-size: 30px;
+    color: #fff;
+    font-weight: bolder;
+    text-align: left;
+    background-color: red;
+}
