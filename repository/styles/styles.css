@@ -1,0 +1,16 @@
+*{
+    background-color: blue;
+    text-align: center;
+}
+h1{
+    color: #fff;
+    font-size: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+p{
+    color: yellow;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder ;
+}
